@@ -1,2 +1,2 @@
-# primerhub2
+#  Primer Guithub
 trabajo grupal github
